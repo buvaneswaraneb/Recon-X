@@ -1,6 +1,4 @@
-# RECON-X Classic Pro - FINALIZED
-# Old Style UI + 13 Options + Press Enter To Exit After Output
-# pip install requests
+# RECON-X Classic
 
 import os
 import socket
