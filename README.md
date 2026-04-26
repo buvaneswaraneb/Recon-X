@@ -170,8 +170,10 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 💡 Author
+**Adithyan KS**
+Cybersecurity Student | Developer | Maintainer
 
-**ADITHYAN KS**
+**E Buvaneswaran**
 Cybersecurity Student | Developer
 
 ---
