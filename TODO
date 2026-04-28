@@ -1,0 +1,37 @@
+Features:
+1. IP Lookup
+2. Domain Lookup
+3. Port Scanner
+4. DNS Lookup
+5. OSINT Search
+6. System Info
+7. Ping Test
+8. Header Grabber
+9. SSL Checker
+10. Subdomain Finder
+11. Username Search
+12. Directory Bruteforce
+13. Exit
+
+Requirements:
+- Use Python 3
+- Modular structure:
+  /core
+  /modules
+  /utils
+  main.py
+- Each feature in separate module file
+- Use OOP where needed
+- CLI menu with color (colorama or rich)
+- Each option has unique color
+- Clean banner/logo (ASCII art)
+- Error handling for invalid input
+- Works on Linux terminal
+- No heavy dependencies
+
+Include:
+- requirements.txt
+- Example usage
+- Comments for each module
+
+Keep code clean, minimal, and production-ready.
