@@ -2,7 +2,8 @@
 
 TOOL_NAME    = "RECON-X"
 TOOL_VERSION = "1.0.0"
-TOOL_AUTHOR  = "github.com/your-handle"
+TOOL_AUTHOR  = "github.com/adithyanks2005 | @adithyanks"
+TOOL_CO_AUTHOR = "github.com/buvaneswaraneb | @buvaneswaraneb"
 
 # ANSI colors — each module picks its own accent
 class C:
