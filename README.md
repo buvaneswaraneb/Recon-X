@@ -1349,7 +1349,7 @@ python3 recon-x/main.py    # wrong — relative imports fail
 
 **Author:** 
 
-*KS ADITHIYAN* CyberSecurity Student
+*KS ADITHYAN* CyberSecurity Student
 
 
 **Contributors :**
