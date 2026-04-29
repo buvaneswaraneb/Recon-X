@@ -131,8 +131,10 @@ unzip recon-x.zip
 cd recon-x
 
 # Or clone from version control:
-git clone https://github.com/your-handle/recon-x.git
-cd recon-x
+git clone https://github.com/adithyanks2005/Recon-X.git
+cd Recon-X/
+python recon-x/main.py (Windows)
+python3 recon-x/main.py (Linux/Mac)
 ```
 
 ### Step 2 — Install optional system tools
@@ -1345,4 +1347,12 @@ python3 recon-x/main.py    # wrong — relative imports fail
 
 ---
 
+*Author: KS ADITHIYAN CyberSecurity Student*
+**Contributor**
+*Buvaneswaran EB* [Github](github.com/buvaneswaraneb)
+
+---
+
+
 *RECON-X v1.0.0 — Built with Python 3 stdlib · Zero pip deps · Linux*
+
