@@ -4,7 +4,7 @@ import os
 import sys
 import socket
 import subprocess
-from core.config import C, TOOL_NAME, TOOL_VERSION, TOOL_AUTHOR, MENU_COLORS
+from core.config import C, TOOL_NAME, TOOL_VERSION, TOOL_AUTHOR, MENU_COLORS,TOOL_CO_AUTHOR
 
 
 # ── Terminal ─────────────────────────────────────────────────────────────────
@@ -32,7 +32,7 @@ def print_banner() -> None:
     clear()
     print(C.CYAN + C.BOLD + BANNER + C.RESET)
     print(f"  {C.DIM}v{TOOL_VERSION}  |  Modular Cybersecurity Recon Toolkit  |  Linux{C.RESET}")
-    print(f"  {C.DIM}{TOOL_AUTHOR}{C.RESET}\n")
+    print(f"  {C.DIM}{TOOL_AUTHOR}\n  {TOOL_CO_AUTHOR}{C.RESET}\n")
 
 
 # ── Menu ──────────────────────────────────────────────────────────────────────
