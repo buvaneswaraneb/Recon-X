@@ -1,0 +1,17 @@
+# requirements.txt — RECON-X
+# All core functionality uses Python 3 stdlib only.
+# No third-party packages are required to run the toolkit.
+#
+# Optional: install these for richer output or extended features.
+# (Uncomment to install via:  pip install -r requirements.txt)
+
+# rich>=13.0          # drop-in pretty-print alternative (not used by default)
+# requests>=2.31      # alternative HTTP client (not used by default)
+
+# System tools used at runtime (must be installed on the OS):
+#   whois   → sudo apt install whois
+#   dig     → sudo apt install dnsutils
+#   ping    → pre-installed on most Linux distros
+#   ip      → pre-installed (iproute2)
+#   free    → pre-installed (procps)
+#   uptime  → pre-installed (procps)
